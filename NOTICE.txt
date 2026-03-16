@@ -1,0 +1,9 @@
+This directory vendors code from:
+
+Repository: https://github.com/BambuTools/bambulabs_api
+License: MIT
+Copyright (c) 2023 Chris Ioannidis
+
+Vendored at commit: 5bd1e84a9b0c21ab7cdfdccac9dab43994319b0d
+
+Local changes: <None | Describe briefly>
